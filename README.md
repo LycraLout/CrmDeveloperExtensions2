@@ -1,3 +1,8 @@
+# WARP Modifications
+Two new Item Templates have been added to more closely match the style used in-house by WARP.
+- WARP D365 CE/CRM Plug-in Class
+- WARP D365 CE/CRM Workflow Class
+
 # News Update
 It has come to my attention that Jason Lattimer has either made the original D365DeveloperExtensions project private or deleted the repository completely. I fully intend to retain this repository indefiniately and will accept pull requests from the community and attempt to maintain this code base. If you have any questions please reach out to me.
 
